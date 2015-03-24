@@ -50,9 +50,9 @@
 	</licenses>
 
 	<scm>
-		<url>http://github.com/webjars/sigmajs</url>
-		<connection>scm:git:https://github.com/webjars/sigmajs.git</connection>
-		<developerConnection>scm:git:https://github.com/webjars/sigmajs.git</developerConnection>
+		<url>http://github.com/webjars/linkuriousjs</url>
+		<connection>scm:git:https://github.com/webjars/linkuriousjs.git</connection>
+		<developerConnection>scm:git:https://github.com/webjars/linkuriousjs.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
