@@ -3,6 +3,7 @@ WebJars Linkurious.js
 
 #Original library
 https://github.com/Linkurious/linkurious.js
+
 fork from sigma.js (in sync but faster release pace and more plugins)
 
 #Made on the model of
