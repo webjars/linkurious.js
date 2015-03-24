@@ -22,15 +22,16 @@
 		<upstream.url>https://github.com/Linkurious/linkurious.js/releases/download/${upstream.directory}/${upstream.file}</upstream.url>
 		<destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
 		<requirejs>
-			{
-			"paths": {
-			"linkurious": "sigma.min.js"
-			},
-			"shim": {
-			"sigmajs":
-			["sigma"]
-			}
-			}
+    {
+        paths: {
+            'sigma': 'sigma.require'
+        },
+        shim: {
+            'sigma': {
+                exports: 'sigma'
+            }
+        }
+    }
 		</requirejs>
 	</properties>
 
