@@ -9,7 +9,7 @@
 
     <groupId>org.webjars</groupId>
     <artifactId>linkurious.js</artifactId>
-    <version>1.0.6</version>
+    <version>1.0.7-SNAPSHOT</version>
     <name>linkurious.js</name>
     <description>WebJar for linkurious.js</description>
     <url>http://webjars.org</url>
@@ -55,7 +55,7 @@
         <url>http://github.com/webjars/linkurious.js</url>
         <connection>scm:git:https://github.com/webjars/linkurious.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/linkurious.js.git</developerConnection>
-        <tag>linkurious.js-1.0.6</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
