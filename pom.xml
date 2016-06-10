@@ -9,14 +9,14 @@
 
     <groupId>org.webjars</groupId>
     <artifactId>linkurious.js</artifactId>
-    <version>1.0.7-SNAPSHOT</version>
+    <version>1.5.1-SNAPSHOT</version>
     <name>linkurious.js</name>
     <description>WebJar for linkurious.js</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>1.0.6</upstream.version>
+        <upstream.version>1.5.1</upstream.version>
         <upstream.directory>v${upstream.version}</upstream.directory>
         <!-- https://github.com/Linkurious/linkurious.js/releases/download/v1.0.6/linkurious-v1.0.6.zip -->
         <upstream.file>linkurious-v${upstream.version}.zip</upstream.file>
